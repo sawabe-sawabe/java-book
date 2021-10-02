@@ -9,5 +9,8 @@ public class score {
 
 		int [] scores1 = new int [] {20,30,30,40,50};
 		System.out.println(scores1[0]);
+		for (int value :scores1) {
+			System.out.println(value);
+		}
 	}
 }
