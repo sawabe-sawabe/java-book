@@ -6,7 +6,7 @@ public class method {
 	methodB();
 }
 public static void methodB() {
-	System.out.println("晴れ！");
+	System.out.println("雪！");
 
 }
 
