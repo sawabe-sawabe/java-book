@@ -2,7 +2,7 @@ package pracrice;
 
 public class add {
 	public static void main(String[] args) {
-		add(100,20);
+		add(100,30);
 		add(200,20);
 	}
 
