@@ -11,7 +11,7 @@ public class makearray {
 
 	}
 	public static void main(String[] args) {
-		int[] array = makeArray(3);
+		int[] array = makeArray(4);
 		for(int i :array) {
 			System.out.println(i);
 		}
